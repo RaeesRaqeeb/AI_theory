@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <Name>Alice</Name>
+    <Age>30</Age>
+    <City>New York</City>
+  </row>
+  <row>
+    <index>1</index>
+    <Name>Bob</Name>
+    <Age>25</Age>
+    <City>Los Angeles</City>
+  </row>
+  <row>
+    <index>2</index>
+    <Name>Charlie</Name>
+    <Age>35</Age>
+    <City>Chicago</City>
+  </row>
+</data>
